@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17de3cbd-aa66-4c94-8395-ed953afb3a56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lecture 8/slides/Lesson 09 - Introduction to React - part 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 9/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 9/lab/Lab_6 (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 9/lab/Lab_6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 9/slides/Lesson 09 - part 2 - Components and props.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture1/slides/Strategy generated values.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture2/slides/cascade types.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_demo/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+1+Course+intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+2+Spring+Boot+and+AOP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+3+JDBC+and+JPA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+4+JPA+mapping+1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+5+JPA+mapping+2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+6+JPA+queries.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+7+transactions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+8+MongoDB.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/Lesson 3 Spring MVC Validation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/Midterm Essay Questions.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/Restful-Best-Practices-v1_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/Spring security architecture.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/modernjs-180318203932.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/lab5/Lab_4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture5/slides/5_spring_aop.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" beforeDir="false" afterPath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;busingepius&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1717019947" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1717019946" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/busingepius/WAP&quot;,
+    &quot;accountId&quot;: &quot;55bfa244-9dd4-4602-bfb9-980b10cb71d3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2h9wrvcZgbV4EsiI76laa3wnaTB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/WAA/lecture 9/lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 9\lab" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 9\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 8\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture2\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture1\slides" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture5\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture4\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture2\lab2" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture3\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture2\slides" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17de3cbd-aa66-4c94-8395-ed953afb3a56" name="Changes" comment="" />
+      <created>1717019805413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717019805413</updated>
+      <workItem from="1717019807951" duration="4636000" />
+      <workItem from="1717030454370" duration="1185000" />
+      <workItem from="1717068787524" duration="1368000" />
+      <workItem from="1717095606743" duration="585000" />
+      <workItem from="1717107538613" duration="2525000" />
+      <workItem from="1717156271098" duration="1338000" />
+      <workItem from="1717171020727" duration="588000" />
+      <workItem from="1717181712074" duration="3338000" />
+      <workItem from="1717252216097" duration="2174000" />
+      <workItem from="1717343295466" duration="4994000" />
+      <workItem from="1717418909594" duration="2423000" />
+      <workItem from="1717448921332" duration="583000" />
+      <workItem from="1717465987062" duration="2518000" />
+      <workItem from="1717499046178" duration="2273000" />
+      <workItem from="1717526251436" duration="430000" />
+      <workItem from="1717536778005" duration="2059000" />
+      <workItem from="1717589153781" duration="1493000" />
+      <workItem from="1717600996864" duration="593000" />
+      <workItem from="1717612760526" duration="1057000" />
+      <workItem from="1717618666297" duration="1286000" />
+      <workItem from="1717672605173" duration="587000" />
+      <workItem from="1717808397451" duration="1352000" />
+      <workItem from="1717852179754" duration="588000" />
+      <workItem from="1717860196136" duration="1185000" />
+      <workItem from="1717870828835" duration="593000" />
+      <workItem from="1717874117790" duration="705000" />
+      <workItem from="1717935777050" duration="1284000" />
+      <workItem from="1717975412959" duration="897000" />
+      <workItem from="1717995106998" duration="591000" />
+      <workItem from="1718021332101" duration="2124000" />
+      <workItem from="1718043444518" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
