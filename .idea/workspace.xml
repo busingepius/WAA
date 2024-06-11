@@ -5,35 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17de3cbd-aa66-4c94-8395-ed953afb3a56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture 8/slides/Lesson 09 - Introduction to React - part 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture 9/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture 9/lab/Lab_6 (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture 9/lab/Lab_6.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture 9/slides/Lesson 09 - part 2 - Components and props.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture1/slides/Strategy generated values.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture2/slides/cascade types.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react_demo/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+1+Course+intro.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+2+Spring+Boot+and+AOP.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+3+JDBC+and+JPA.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+4+JPA+mapping+1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+5+JPA+mapping+2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+6+JPA+queries.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+7+transactions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enterprise Archtitecture Sping Boot/Lesson+8+MongoDB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/Lesson 3 Spring MVC Validation.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/Midterm Essay Questions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/Restful-Best-Practices-v1_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/Spring security architecture.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/modernjs-180318203932.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture4/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture5/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture5/lab5/Lab_4.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture5/slides/5_spring_aop.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture6/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture7/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 10/lab/Lab_7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 10/slides/Lesson 10 - part 1 - Fetching Data _Axios_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture 2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture1/slides/Lesson1 - Intro to WAA _ Spring Boot_.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 1/slides/Lesson1 - Intro to WAA _ Spring Boot_.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture1/slides/Strategy generated values.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 1/slides/Strategy generated values.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 10/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture2/lab2/Lab 1 (1).docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 2/lab2/Lab 1 (1).docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture2/slides/Lesson2 - RESTful services.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 2/slides/Lesson2 - RESTful services.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture2/slides/cascade types.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 2/slides/cascade types.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture3/lab3/Lab_2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 3/lab3/Lab_2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture3/slides/Lesson3 - Srping Data - part1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 3/slides/Lesson3 - Srping Data - part1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture4/lab4/Lab_3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 4/lab4/Lab_3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture4/slides/Lesson4 - Spring Data - part 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 4/slides/Lesson4 - Spring Data - part 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture6/lab6/Lab_5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 6/lab6/Lab_5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture6/slides/6_spring_security_part__1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 6/slides/6_spring_security_part__1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture7/slides/Lesson07_security_part2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 7/slides/Lesson07_security_part2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" beforeDir="false" afterPath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +88,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/IdeaProjects/WAA/lecture 9/lab",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/WAA/lecture 10/lab",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,11 +105,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 10\lab" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 10\slides" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 9\lab" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 9\slides" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 8\slides" />
-      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture2\slides" />
-      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture1\slides" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture5\slides" />
@@ -175,7 +165,13 @@
       <workItem from="1717975412959" duration="897000" />
       <workItem from="1717995106998" duration="591000" />
       <workItem from="1718021332101" duration="2124000" />
-      <workItem from="1718043444518" duration="2016000" />
+      <workItem from="1718043444518" duration="2394000" />
+      <workItem from="1718051371809" duration="742000" />
+      <workItem from="1718055986737" duration="830000" />
+      <workItem from="1718066317237" duration="2413000" />
+      <workItem from="1718109894429" duration="950000" />
+      <workItem from="1718122807564" duration="294000" />
+      <workItem from="1718130967316" duration="775000" />
     </task>
     <servers />
   </component>
