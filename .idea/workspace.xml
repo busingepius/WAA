@@ -5,26 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17de3cbd-aa66-4c94-8395-ed953afb3a56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture 10/lab/Lab_7.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture 10/slides/Lesson 10 - part 1 - Fetching Data _Axios_.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture 2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_demo/src/components/boarder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_demo/src/components/populatePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react_demo/src/components/textFiled.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/slides/Lesson1 - Intro to WAA _ Spring Boot_.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 1/slides/Lesson1 - Intro to WAA _ Spring Boot_.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture1/slides/Strategy generated values.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 1/slides/Strategy generated values.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 10/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture2/lab2/Lab 1 (1).docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 2/lab2/Lab 1 (1).docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture2/slides/Lesson2 - RESTful services.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 2/slides/Lesson2 - RESTful services.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture2/slides/cascade types.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 2/slides/cascade types.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture3/lab3/Lab_2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 3/lab3/Lab_2.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture3/slides/Lesson3 - Srping Data - part1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 3/slides/Lesson3 - Srping Data - part1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture4/lab4/Lab_3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 4/lab4/Lab_3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture4/slides/Lesson4 - Spring Data - part 2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 4/slides/Lesson4 - Spring Data - part 2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture6/lab6/Lab_5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 6/lab6/Lab_5.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture6/slides/6_spring_security_part__1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 6/slides/6_spring_security_part__1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture7/slides/Lesson07_security_part2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lecture 7/slides/Lesson07_security_part2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture 10/lab/.~lock.Lab_7.docx#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" beforeDir="false" afterPath="$PROJECT_DIR$/../kubernetes/exercies/CKAD-exercises" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react_demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react_demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_demo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_demo/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_demo/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_demo/src/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,32 +71,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/IdeaProjects/WAA/lecture 10/lab",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/WAA/lecture 10/slides&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 10\lab" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 10\slides" />
+      <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 10\lab" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 9\lab" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 9\slides" />
       <recent name="C:\Users\USER\IdeaProjects\WAA\lecture 8\slides" />
@@ -171,7 +161,13 @@
       <workItem from="1718066317237" duration="2413000" />
       <workItem from="1718109894429" duration="950000" />
       <workItem from="1718122807564" duration="294000" />
-      <workItem from="1718130967316" duration="775000" />
+      <workItem from="1718130967316" duration="3297000" />
+      <workItem from="1718138787658" duration="1425000" />
+      <workItem from="1718159004500" duration="1307000" />
+      <workItem from="1718196385629" duration="1099000" />
+      <workItem from="1718204868776" duration="583000" />
+      <workItem from="1718216552549" duration="576000" />
+      <workItem from="1718219782639" duration="499000" />
     </task>
     <servers />
   </component>
